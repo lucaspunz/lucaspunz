@@ -1,9 +1,9 @@
-# Hi, I'm [Lucas](https://lucaspunz.com) 👋
-## About Me
+## Hi, I'm [Lucas](https://lucaspunz.com) 👋
+### About Me
 I'm a software developer studying computer science at UC Davis.
 Find out more about me by visiting [my website](https://lucaspunz.com)!
 
-## Technologies I like
+### Technologies I like
 ### Backend
 - Go
 - Node.JS (TypeScript)
@@ -13,3 +13,5 @@ Find out more about me by visiting [my website](https://lucaspunz.com)!
 ### Databases
 - Mongo
 - Redis
+
+**Note:** most of my repositories are private.
