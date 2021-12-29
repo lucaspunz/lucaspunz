@@ -1,7 +1,7 @@
-## Hi, I'm [Lucas](https://lucaspunz.com) 👋
+## Hi, I'm [Lucas](https://lucaspunz.com/?from=github-readme) 👋
 ### About Me
 I'm a software developer studying computer science at UC Davis.
-Find out more about me by visiting [my website](https://lucaspunz.com)!
+Find out more about me by visiting [my website](https://lucaspunz.com/?from=github-readme)!
 
 ### Technologies I like
 ### Backend
