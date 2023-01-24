@@ -12,7 +12,8 @@ Find out more about me by visiting [my website](https://lucaspunz.com)!
 - Next.js/React
 - Tailwind
 ### Databases
-- Mongo
+- PostgreSQL
+- MongoDB
 - Redis
 
-**Note:** most of my repositories are private, also I strongly prefer using typescript over normal javascript.
+**Note:** most of my repositories are private, also I strongly prefer using TypeScript over normal JavaScript.
