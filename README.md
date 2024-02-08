@@ -1,1 +1,1 @@
-## Hi, I'm [Lucas]👋
+## Hi, I'm Lucas👋
